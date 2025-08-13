@@ -26,5 +26,3 @@ https://github.com/user-attachments/assets/4970a848-c18a-4fc3-bcb3-de03480927d1
 
 
 ---
-
-## 📂 Estrutura de Arquivos
